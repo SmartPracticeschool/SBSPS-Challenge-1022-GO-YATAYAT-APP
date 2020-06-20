@@ -1,22 +1,23 @@
 # SBSPS-Challenge-1022-GO-YATAYAT-APP
 GO YATAYAT APP
+Registration process:-
+In this section 
+1)we have to login to our respective account.
+2)Vehicle registration.
+3)User Registration Details.
 
-Say GO YATAYAT to a better value rideshare. GO YATAYAT offers you the nicer, safer and fairer ways to book your rides. With more than 300,000 drivers & taxis in 100+ cities, we have got you covered in India.
+Seat Selection Process:-
+This programme has been created in order to make all these people feel a sense of safety whenever they are using a public transport, specially buses. 
+people can be ensured of their safety while travelling and can follow social distancing conviniently.
+People can select seat on their respective dates.
 
-Book your next ride in just a few taps.                   
+Payment Process:-
+All types of payments modes/methods can be accepted except cash.
 
-● Enter the destination to check fares
+Helpdesk:-
+in this section users can ask queries about the payment,seats,travel date,refund process etc.
 
-● See all available travel options near you
-
-● Pick your choice of ride
-
-● Get instant confirmation with ride details
-
-● Track your ride in real time
-
- 
-
-All our vehicles come equipped with onboard GPS for route navigation. See all your available ride options in the app.
+Feedback:-
+customers reviews.
 
  
