@@ -22,6 +22,6 @@ customers reviews.
 
  Additional keys:-
    Travel bot Node- 
-API key- w0eMYvzu0dHm-wOy0IGi1wwmtA1TQHyoOZymKdQkJKkt
-url:- https://api.eu-gb.assistant.watson.cloud.ibm.com/instances/7f8971bd-fbe5-4183-86c3-94c55353cec2
-Skill ID/workspace ID :a38980fa-747f-484e-8684-c781d5d21626
+1)API key- w0eMYvzu0dHm-wOy0IGi1wwmtA1TQHyoOZymKdQkJKkt
+2)url:- https://api.eu-gb.assistant.watson.cloud.ibm.com/instances/7f8971bd-fbe5-4183-86c3-94c55353cec2
+3)Skill ID/workspace ID :a38980fa-747f-484e-8684-c781d5d21626
